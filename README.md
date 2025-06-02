@@ -25,6 +25,7 @@ Duration
 Description
 
 *📌 Project Highlights*
+
 🔍 Visualizations Created:
 Movies vs TV Shows (Bar Chart)
 
