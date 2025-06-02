@@ -1,4 +1,4 @@
-#📊 Netflix Data Visualization Project
+# 📊 Netflix Data Visualization Project
 A data analysis and visualization project using Matplotlib and Pandas to explore trends and patterns in Netflix content using the netflix_titles.csv dataset.
 
 📁 Dataset
