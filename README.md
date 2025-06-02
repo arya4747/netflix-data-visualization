@@ -41,3 +41,13 @@ Content Release Trends Over Years (Line Chart Comparison)
 
 Each visualization is saved as a .png file for reporting and presentation purposes.
 
+🧰 Technologies Used
+Python
+
+Pandas
+
+Matplotlib
+
+Jupyter Notebook
+
+
